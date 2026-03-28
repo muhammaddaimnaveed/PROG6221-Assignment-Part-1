@@ -25,5 +25,15 @@ namespace CybersecurityAwarenessChatbot.Assets
                                       >>> STAY SAFE. STAY SECURE. <<<
 ";
 
+
+        public static string WelcomeMessage = @"  
+                                           =======================
+                                           Welcome to CYBER SECURE
+                                           =======================                                                                                           
+                                                  
+ 
+ ";
+
+
     }
 }

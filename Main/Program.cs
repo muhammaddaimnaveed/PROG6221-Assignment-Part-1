@@ -16,6 +16,10 @@ namespace CybersecurityAwarenessChatbot.Main
             // Plays the greeting audio when the program starts
 
             Audio.GreetingAudio();
+            // Displays the welcome message
+
+            UserInterface.WelcomeMessage();
+
         }
     }
 }
