@@ -8,5 +8,13 @@ namespace CybersecurityAwarenessChatbot.Main
 {
     internal class UserInterface
     {
+        static void Main(string[] args)
+        {
+
+            // Plays the greeting audio when the program starts
+
+            Audio.GreetingAudio();
+
+        }
     }
 }
