@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CybersecurityAwarenessChatbot.Assets;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,13 +9,19 @@ namespace CybersecurityAwarenessChatbot.Main
 {
     internal class UserInterface
     {
-        static void Main(string[] args)
+        
+        
+            // Sets the text color for the ASCII Art header
+            public static void Header()
         {
-
-            // Plays the greeting audio when the program starts
-
-            Audio.GreetingAudio();
-
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine(ASCII.Logo);
+            Console.ResetColor();
         }
+
+
+        
+
+        
     }
 }
