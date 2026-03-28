@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ASCII.cs" />
+    <Compile Include="Main\Audio.cs" />
+    <Compile Include="Main\Chatbot.cs" />
+    <Compile Include="Main\Program.cs" />
+    <Compile Include="Main\UserInterface.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
