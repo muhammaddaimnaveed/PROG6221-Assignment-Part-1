@@ -98,19 +98,23 @@ namespace CybersecurityAwarenessChatbot.Main
         public static void DisplayOptions()
         {
             UserInterface.ChatbotOutput("Select an Option:");
-            Console.WriteLine("----------------------------------------");
-            Console.WriteLine("1)  How are you?");
-            Console.WriteLine("2)  What is your purpose?");
-            Console.WriteLine("3)  What can I ask you?");
-            Console.WriteLine("4)  What is password safety?");
-            Console.WriteLine("5)  What is phishing?");
-            Console.WriteLine("6)  How can I practice safe browsing?");
-            Console.WriteLine("7)  How do I create a strong password?");
-            Console.WriteLine("8)  What is two-factor authentication?");
-            Console.WriteLine("9)  How do I recognize a secure website?");
-            Console.WriteLine("10) How can I protect my personal information online?");
-            Console.WriteLine("11) Type 'exit' to quit");
-            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("---------------------------------------");
+            Console.WriteLine("╔═════════════════════════════════════╗");
+            Console.WriteLine("║           CHATBOT OPTIONS           ║");
+            Console.WriteLine("╠═════════════════════════════════════╣");
+            Console.WriteLine("║ 1) How are you?                     ║");
+            Console.WriteLine("║ 2) What is your purpose?            ║");
+            Console.WriteLine("║ 3) What can I ask you?              ║");
+            Console.WriteLine("║ 4) What is password safety?         ║");
+            Console.WriteLine("║ 5) What is phishing?                ║");
+            Console.WriteLine("║ 6) Safe browsing tips               ║");
+            Console.WriteLine("║ 7) Strong password                  ║");
+            Console.WriteLine("║ 8) Two-factor authentication        ║");
+            Console.WriteLine("║ 9) Recognize secure website         ║");
+            Console.WriteLine("║10) Protect personal information     ║");
+            Console.WriteLine("║11) Type 'exit' to quit              ║");
+            Console.WriteLine("╚═════════════════════════════════════╝");
+            Console.WriteLine("---------------------------------------");
         }
 
        

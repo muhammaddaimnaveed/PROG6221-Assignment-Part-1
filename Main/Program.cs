@@ -25,11 +25,12 @@ namespace CybersecurityAwarenessChatbot.Main
             // Requests users to enter their name 
 
             Console.ForegroundColor = ConsoleColor.DarkGreen;
-            Console.Write("Enter your name: ");
+            Console.Write("[Bot]");
             Console.ResetColor();
+            Console.Write(" Enter your name: ");
             string name = Console.ReadLine();
 
-            UserInterface.ChatbotOutput($"Hello {name}! How can I assist you today?\n");
+            UserInterface.ChatbotOutput($"Hello {name}! How can I assist you today?");
 
             // Displays a list of queries that users can ask the chatbot
 
