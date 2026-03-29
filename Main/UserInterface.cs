@@ -25,6 +25,26 @@ namespace CybersecurityAwarenessChatbot.Main
             Console.ResetColor();
         }
 
+        // Formats and displays the user input
+        public static void UserInput()
+        {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.Write("You: ");
+            Console.ResetColor();
+        }
+
+        // Formats and displays the chatbots response
+        public static void ChatbotOutput(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.Write("Bot: ");
+            Console.ResetColor();
+            Console.WriteLine(message);
+        }
+
+        
+        
+
 
     }
 }
