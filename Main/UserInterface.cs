@@ -16,5 +16,15 @@ namespace CybersecurityAwarenessChatbot.Main
             Console.WriteLine(ASCII.Logo);
             Console.ResetColor();
         }
+
+        // Sets the text color for the welcome message
+        public static void WelcomeMessage()
+        {
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine(ASCII.WelcomeMessage);
+            Console.ResetColor();
+        }
+
+
     }
 }

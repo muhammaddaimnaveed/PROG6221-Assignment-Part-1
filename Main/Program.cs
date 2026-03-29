@@ -17,6 +17,19 @@ namespace CybersecurityAwarenessChatbot.Main
             // Plays the greeting audio when the program starts
 
             Audio.GreetingAudio();
+
+            // Displays the welcome message
+
+            UserInterface.WelcomeMessage();
+
+            // Requests users to enter their name 
+
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine();
+
+            Console.WriteLine($"\nHello {name}! How can I assist you today?\n");
+
+
         }
     }
 }
