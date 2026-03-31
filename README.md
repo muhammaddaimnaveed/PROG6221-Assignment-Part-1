@@ -60,6 +60,32 @@ CI Workflow:
 
 <img width="1453" height="790" alt="Screenshot 2026-03-31 163259" src="https://github.com/user-attachments/assets/55877bd4-1a63-4876-b731-aba5eeb07528" />
 
+References:
+
+ASCII Art Archive. No date. Text to ASCII: The best ASCII Art Generator & Maker [Online]. Available at: Text to ASCII: The best ASCII Art Generator & Maker [Accessed: 29 March 2026]
+
+Code Bro. 2022. C# if statements. [YouTube Video]. Available at:  C# if statements  [Accessed:  29 March 2026] 
+
+Code Bro. 2025. While loops in C are easy! [YouTube Video]. Available at:  While loops in C are easy!  [Accessed:  29 March 2026] 
+
+Code Master. 2024.  Validating User Input • C# Programming • C# Tutorial • Learn C# [YouTube Video]. Available at:   Validating User Input • C# Programming • C# Tutorial • Learn C# [Accessed:  29 March 2026] 
+
+Dev Leonardo. 2023. Understanding GitHub Actions – Automated Testing. [YouTube Video]. Available at: Understanding GitHub Actions - Automated Testing [Accessed:  29 March 2026] 
+
+Giraffe Academy. 2018. If Statements | C# | Tutorial 14. [YouTube Video]. Available at:  If Statements | C# | Tutorial 14 [Accessed:  29 March 2026] 
+
+Giraffe Academy. 2018. Static Methods & Classes | C# | Tutorial 30. [YouTube Video]. Available at:  Static Methods & Classes | C# | Tutorial 30 [Accessed:  29 March 2026] 
+
+Giraffe Academy. 2018. While Loops | C# | Tutorial 18. [YouTube Video]. Available at:  While Loops | C# | Tutorial 18 [Accessed:  29 March 2026] 
+
+Programming with Mosh. 2017. C# Tutorial For Beginners - Learn C# Basics in 1 Hour. [YouTube Video]. Available at:  C# Tutorial For Beginners - Learn C# Basics in 1 Hour  [Accessed: 29 March 2026] 
+
+The C# Academy. 2023. Github + Visual Studio 2022: Basic Workflow For Beginners. [YouTube Video]. Available at:  Github + Visual Studio 2022: Basic Workflow For Beginners  [Accessed: 29 March 2026] 
+
+W3Schools. No date. C# Tutorial [Online]. Available at: C# Tutorial (C Sharp) [Accessed: 29 March 2026]
+
+
+
 
 
    
