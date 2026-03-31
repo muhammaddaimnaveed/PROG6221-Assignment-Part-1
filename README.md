@@ -62,27 +62,27 @@ CI Workflow:
 
 References:
 
-ASCII Art Archive. No date. Text to ASCII: The best ASCII Art Generator & Maker [Online]. Available at: Text to ASCII: The best ASCII Art Generator & Maker [Accessed: 29 March 2026]
+ASCII Art Archive. No date. Text to ASCII: The best ASCII Art Generator & Maker [Online]. Available at: https://www.asciiart.eu/text-to-ascii-art [Accessed: 29 March 2026]
 
-Code Bro. 2022. C# if statements. [YouTube Video]. Available at:  C# if statements  [Accessed:  29 March 2026] 
+Code Bro. 2022. C# if statements. [YouTube Video]. Available at: https://www.youtube.com/watch?v=pSPQnXleaS8 [Accessed:  29 March 2026] 
 
-Code Bro. 2025. While loops in C are easy! [YouTube Video]. Available at:  While loops in C are easy!  [Accessed:  29 March 2026] 
+Code Bro. 2025. While loops in C are easy! [YouTube Video]. Available at: https://www.youtube.com/watch?v=6YNYuJ_jiu0 [Accessed:  29 March 2026] 
 
-Code Master. 2024.  Validating User Input • C# Programming • C# Tutorial • Learn C# [YouTube Video]. Available at:   Validating User Input • C# Programming • C# Tutorial • Learn C# [Accessed:  29 March 2026] 
+Code Master. 2024.  Validating User Input • C# Programming • C# Tutorial • Learn C# [YouTube Video]. Available at: https://www.youtube.com/watch?v=UoVrRNTYI_k [Accessed:  29 March 2026] 
 
-Dev Leonardo. 2023. Understanding GitHub Actions – Automated Testing. [YouTube Video]. Available at: Understanding GitHub Actions - Automated Testing [Accessed:  29 March 2026] 
+Dev Leonardo. 2023. Understanding GitHub Actions – Automated Testing. [YouTube Video]. Available at: https://www.youtube.com/watch?v=WW6ZUw9IExA [Accessed:  29 March 2026] 
 
-Giraffe Academy. 2018. If Statements | C# | Tutorial 14. [YouTube Video]. Available at:  If Statements | C# | Tutorial 14 [Accessed:  29 March 2026] 
+Giraffe Academy. 2018. If Statements | C# | Tutorial 14. [YouTube Video]. Available at:  https://www.youtube.com/watch?v=ciV3ERNABb8 [Accessed:  29 March 2026] 
 
-Giraffe Academy. 2018. Static Methods & Classes | C# | Tutorial 30. [YouTube Video]. Available at:  Static Methods & Classes | C# | Tutorial 30 [Accessed:  29 March 2026] 
+Giraffe Academy. 2018. Static Methods & Classes | C# | Tutorial 30. [YouTube Video]. Available at: https://www.youtube.com/watch?v=yysUerUhxOE [Accessed:  29 March 2026] 
 
-Giraffe Academy. 2018. While Loops | C# | Tutorial 18. [YouTube Video]. Available at:  While Loops | C# | Tutorial 18 [Accessed:  29 March 2026] 
+Giraffe Academy. 2018. While Loops | C# | Tutorial 18. [YouTube Video]. Available at: https://www.youtube.com/watch?v=uqMbyuATj2Y [Accessed:  29 March 2026] 
 
-Programming with Mosh. 2017. C# Tutorial For Beginners - Learn C# Basics in 1 Hour. [YouTube Video]. Available at:  C# Tutorial For Beginners - Learn C# Basics in 1 Hour  [Accessed: 29 March 2026] 
+Programming with Mosh. 2017. C# Tutorial For Beginners - Learn C# Basics in 1 Hour. [YouTube Video]. Available at: https://www.youtube.com/watch?v=gfkTfcpWqAY  [Accessed: 29 March 2026] 
 
-The C# Academy. 2023. Github + Visual Studio 2022: Basic Workflow For Beginners. [YouTube Video]. Available at:  Github + Visual Studio 2022: Basic Workflow For Beginners  [Accessed: 29 March 2026] 
+The C# Academy. 2023. Github + Visual Studio 2022: Basic Workflow For Beginners. [YouTube Video]. Available at: https://www.youtube.com/watch?v=oCvb-Q5lXb8  [Accessed: 29 March 2026] 
 
-W3Schools. No date. C# Tutorial [Online]. Available at: C# Tutorial (C Sharp) [Accessed: 29 March 2026]
+W3Schools. No date. C# Tutorial [Online]. Available at: https://www.w3schools.com/cs/index.php [Accessed: 29 March 2026]
 
 
 
