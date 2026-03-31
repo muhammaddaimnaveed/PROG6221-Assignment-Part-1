@@ -7,7 +7,7 @@ enter their name, and with this, they will get a personalise response using thei
 user experience. After the introduction, the chatbot presents the users with a menu of predefined questions that relate to 
 cybersecurity, allowing them to select an option and enter the query to get a response from the Chatbot. These responses are 
 designed to educate users on a variety of topics such as phishing, password safety, recognising suspicious activity, and staying 
-safe while browsing the internet. Overall, the chatbot serves as an interactive educational tool that is designed to educate 
+safe while browsing the internet. Overall, the Chatbot serves as an interactive educational tool that is designed to educate 
 users about important cybersecurity concepts and how to protect themselves and stay safe online.
 
 YouTube Link: https://www.youtube.com/watch?v=wU_rrSTEjYk
@@ -58,7 +58,7 @@ Add task manager with reminders
 
 CI Workflow:
 
-<img width="1453" height="790" alt="Screenshot 2026-03-31 163259" src="https://github.com/user-attachments/assets/55877bd4-1a63-4876-b731-aba5eeb07528" />
+<img width="1461" height="883" alt="Screenshot 2026-03-31 194625" src="https://github.com/user-attachments/assets/02dcf26d-1272-4d79-aeae-ce9c1f831953" />
 
 References:
 
