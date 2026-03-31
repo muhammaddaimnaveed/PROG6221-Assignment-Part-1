@@ -56,6 +56,11 @@ Add memory feature for user preferences
 Implement a cybersecurity quiz game
 Add task manager with reminders
 
+CI Workflow:
+
+<img width="1453" height="790" alt="Screenshot 2026-03-31 163259" src="https://github.com/user-attachments/assets/55877bd4-1a63-4876-b731-aba5eeb07528" />
+
+
 
    
            
